@@ -17,7 +17,7 @@ This project involves designing and building the layout for a company's homepage
 
 To view the Borcelle Events and Catering Company Homepage project, simply visit the live demo [https://lisbrow.github.io/company_homepage/](https://lisbrow.github.io/company_homepage/) in your web browser.
 
-## Technologies Used
+## Languages Used
 
 - HTML
 - CSS (with flexbox)
