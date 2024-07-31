@@ -1,5 +1,7 @@
 # Borcelle Events and Catering Company Homepage
 
+![Preview](project-flexboxcompany.png)
+
 Welcome to the Borcelle Events and Catering Company Homepage project! This project showcases the design and layout of a company homepage for Borcelle Events and Catering, an elegant food catering service, using flexbox.
 
 ## Project Overview
